@@ -1,7 +1,7 @@
-//Replace With Your Own Github Username
+//My Github Username
 const Github_Username = "vexr-discord";
 
-//Replace With Your Own Email ID
+//My Email ID
 const Email_Id = "ahahwuuw@gmail.com";
 
 var xhr = new XMLHttpRequest();
