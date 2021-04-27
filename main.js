@@ -1,5 +1,5 @@
 //My Github Username
-const Github_Username = "vexr-discord";
+const Github_Username = "byteakshat";
 
 //My Email ID
 const Email_Id = "ahahwuuw@gmail.com";
